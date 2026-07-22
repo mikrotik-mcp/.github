@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mikrotik-mcp/mikrotik-mcp/refs/heads/master/assets/logo.svg" alt="mikrotik-mcp" width="440" />
-  <p><strong>Drive one or more MikroTik routers from your AI — 794 tools over SSH.</strong><br/>
+  <p><strong>Drive one or more MikroTik routers from your AI — 800+ tools over SSH.</strong><br/>
   Firewall · routing · DHCP/DNS · wireless · QoS · full VPN suite — with transactional Safe Mode.</p>
 
   <p>
@@ -22,7 +22,7 @@
 
 ## Why it's different
 
-- 🧰 **Breadth** — 794 tools covering the whole device: L2 (bridge, VLAN, wireless, PoE), L3 (addressing, routing, DHCP, DNS), security (firewall, NAT, address-lists, certificates), QoS, and system ops (users, logs, backups, scheduler).
+- 🧰 **Breadth** — 800+ tools covering the whole device: L2 (bridge, VLAN, wireless, PoE), L3 (addressing, routing, DHCP, DNS), security (firewall, NAT, address-lists, certificates), QoS, and system ops (users, logs, backups, scheduler).
 - 🔐 **Complete VPN suite** — WireGuard, IPsec (IKEv1/IKEv2), L2TP, PPTP, SSTP, OpenVPN, plus GRE/IPIP/EoIP/VXLAN tunnels — with a prompt that picks the right one for you.
 - 🛟 **Safe Mode** — a real transactional window backed by a persistent SSH session. Auto-reverts on disconnect, so you can't lock yourself out.
 - 🚦 **Risk-annotated tools** — every tool carries a read/write/destructive hint, so clients auto-approve reads and prompt on writes.
